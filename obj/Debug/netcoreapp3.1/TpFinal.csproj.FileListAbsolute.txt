@@ -1,0 +1,8 @@
+C:\Users\Philc\Desktop\SWII6\TpFinal\bin\Debug\netcoreapp3.1\TpFinal.deps.json
+C:\Users\Philc\Desktop\SWII6\TpFinal\bin\Debug\netcoreapp3.1\TpFinal.dll
+C:\Users\Philc\Desktop\SWII6\TpFinal\bin\Debug\netcoreapp3.1\TpFinal.pdb
+C:\Users\Philc\Desktop\SWII6\TpFinal\obj\Debug\netcoreapp3.1\TpFinal.AssemblyInfoInputs.cache
+C:\Users\Philc\Desktop\SWII6\TpFinal\obj\Debug\netcoreapp3.1\TpFinal.AssemblyInfo.cs
+C:\Users\Philc\Desktop\SWII6\TpFinal\obj\Debug\netcoreapp3.1\TpFinal.csproj.CoreCompileInputs.cache
+C:\Users\Philc\Desktop\SWII6\TpFinal\obj\Debug\netcoreapp3.1\TpFinal.dll
+C:\Users\Philc\Desktop\SWII6\TpFinal\obj\Debug\netcoreapp3.1\TpFinal.pdb
